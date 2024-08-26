@@ -1,25 +1,24 @@
 *{
-    margin:1px;
-    padding:5px;
+    margin:3px ;
+    padding: 1px;
 }
 button{
     padding: .5rem 1.2rem;
     background-color: blue;
     color: white;
     border: none;
-    display: flex;
 }
 button:hover{
     background-color: white;
     color: white;
     border: 2px solid rgb(57, 57, 151);
 }
-form{
-    width: 100px;
-    display: grid;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
 a{
     text-decoration: none;
+}
+form{
+    width: 100px;
+}
+p{
+
 }
